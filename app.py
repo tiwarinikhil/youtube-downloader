@@ -158,13 +158,13 @@ ttk.Combobox(audio_frame, textvariable=quality_var, values=["64", "128", "192", 
 ttk.Button(root, text="🚀 Download", command=start_download).pack(pady=15)
 
 # Credits
-credits = tk.Label(root, text="Made with ❤️  |  GitHub: https://github.com/yourusername",
+credits = tk.Label(root, text="Made with ❤️  |  GitHub: https://github.com/tiwarinikhil",
                    font=("Segoe UI", 9), fg="gray", bg="#f4f6f9", cursor="hand2")
 credits.pack(pady=5)
 
 def open_github(event):
     import webbrowser
-    webbrowser.open("https://github.com/yourusername")
+    webbrowser.open("https://github.com/tiwarinikhil")
 
 credits.bind("<Button-1>", open_github)
 
