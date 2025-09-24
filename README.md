@@ -30,7 +30,7 @@ A modern desktop GUI for downloading YouTube **videos** and **playlists** using 
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/yt-dlp-gui.git
+   git clone https://github.com/tiwarinikhil/youtube-downloader.git
    cd yt-dlp-gui
    
 2. **Create a virtual environment (optional but recommended)**
