@@ -1,4 +1,4 @@
-# 🎬 YouTube Downloader (yt-dlp GUI)
+# 🎬 YouTube Downloader
 
 A modern desktop GUI for downloading YouTube **videos** and **playlists** using [yt-dlp](https://github.com/yt-dlp/yt-dlp), built with Python and Tkinter.
 
